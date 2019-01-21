@@ -1,0 +1,23 @@
+{
+  "id": "a121a71e-63fa-4b5d-923a-3e0215697800",
+  "name": "POPrintRestriction",
+  "publisher": "D365 BC Hub (AJ Ansari)",
+  "brief": "",
+  "description": "Restricts Printing and Sending of Purchase Orders when Status is not Released",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "images/logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50090,
+    "to": 50091
+  },
+  "runtime": "2.1"
+}
