@@ -4,7 +4,7 @@
   "publisher": "D365 BC Hub (AJ Ansari)",
   "brief": "",
   "description": "Restricts Printing and Sending of Purchase Orders when Status is not Released",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "privacyStatement": "",
   "EULA": "",
   "help": "",

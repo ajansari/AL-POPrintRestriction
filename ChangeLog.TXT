@@ -1,0 +1,5 @@
+Coming in next build:
+
+v1.0.0.1 (01/21/19): Added similar restrictions on Print and Send to Purchase Order List page
+
+
